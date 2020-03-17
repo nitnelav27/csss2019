@@ -1,0 +1,32 @@
+(TeX-add-style-hook
+ "references"
+ (lambda ()
+   (LaTeX-add-bibitems
+    "centola2010"
+    "centola2005"
+    "besley2006"
+    "gilbert1959"
+    "damgard2019"
+    "felter2018"
+    "garay2018"
+    "johnson2013"
+    "angelico2017"
+    "guerrero2019"
+    "garay18"
+    "hammond2000"
+    "milgram1963"
+    "moro2018"
+    "murase2019"
+    "lopes2016"
+    "padula2018"
+    "parsons1991"
+    "watts1998"
+    "raven1959"
+    "raven1958"
+    "gilbert2005"
+    "goldstein2018"
+    "correa2018"
+    "weyland1998"
+    "federal_2018"))
+ :bibtex)
+
